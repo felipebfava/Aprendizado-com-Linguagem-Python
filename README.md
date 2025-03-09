@@ -18,4 +18,7 @@ No arquivo IntroductionToPython10 chego com mais funções que a linguagem Pytho
 
 No arquivo IntroductionToPython11 trago a Programação Orientada a Objetos (POO) da linguagem Python, introdução a classes, atributos e métodos.
 
+No arquivo IntroductionToPython12 exploro a Modificação de imagens na linguagem Python, usando a biblioteca pillow.
+
+
 *os arquivos relacionados a aula de dev web contêm um projeto em python usando o framework flask, banco de dados sqlite3 e docker. Um dos arquivos foi feito no WSL Ubuntu do VsCode e o outro em Windows*
