@@ -24,4 +24,6 @@ Em IntroductionToPython14, mostro um pouco do web scraping (raspagem de sites) e
 
 Um outro método para montarmos um script para automação em python é usarmos o Selenium, como fiz em IntroductionToPython15 para acessar determinado site.
 
+O objetivo futuro é avançar nas práticas para entender melhor o cenário focado em desenvolvimento web, usando flask para criação de rotas.
+
 *os arquivos relacionados a aula de dev web contêm um projeto em python usando o framework flask, banco de dados sqlite3 e docker. Um dos arquivos foi feito no WSL Ubuntu do VsCode e o outro em Windows*
