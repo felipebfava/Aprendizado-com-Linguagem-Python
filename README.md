@@ -26,4 +26,6 @@ Um outro método para montarmos um script para automação em python é usarmos 
 
 O objetivo futuro é avançar nas práticas para entender melhor o cenário focado em desenvolvimento web, usando flask para criação de rotas.
 
+Adiciono um arquivo diferente dos demais, chamado FastApi, nele uso o framework FastAPI para criar uma API Rest em Python, utilizando métodos GET.
+
 *os arquivos relacionados a aula de dev web contêm um projeto em python usando o framework flask, banco de dados sqlite3 e docker. Um dos arquivos foi feito no WSL Ubuntu do VsCode e o outro em Windows*
